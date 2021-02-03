@@ -17,6 +17,6 @@ this is horizontal line
 - boost
 - horlicks
 
-how to open hyper links [apssdc](https://www.apssdc.i)
+how to open hyper links [apssdc] (https://www.apssdc.i)
 
-[ciet college](https://chalapathiengg.ac.in)
+ [ciet college] (https://chalapathiengg.ac.in)
